@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  font-size: 7pt;
+  font-family:verdana;
+}
+div{
+  position: absolute;
+  border:solid 1px #cccccc;
+  color:black;
+}
+.overlay{
+  width:200px;
+  height:100px;
+  overflow:hidden;
+  padding:20px;
+  left:20px;
+  top:20px;
+  border:none;
+}
+.dat{
+  width:100px;
+  height:50px;
+  text-align:center;
+  line-height:50px;
+  right:121px;
+  top:20px;
+  cursor:link;
+  overflow:right;
+  dsiplay:block;
+}
+.dat2{
+  width:100px;
+  height:50px;
+  text-align:center;
+  line-height:50px;
+  right:20px;
+  top:20px;
+  cursor:link;
+  overflow:right;
+  dsiplay:block;
+}
+.time{
+  width:200px;
+  height:10px;
+  bottom:20px;
+  right:20px;
+  text-align:right;
+  border:none
+}
+#container{
+  
+}
